@@ -7,8 +7,8 @@ This repository contains the code and documentation for the project "Fashion MNI
 - Developed a CNN model architecture for fashion image classification using TensorFlow and Keras.
 - Integrated Intel optimization libraries, including Intel Math Kernel Library (MKL) and Intel Distribution for Python, to enhance model performance.
 - Preprocessed and normalized the Fashion MNIST dataset for training and testing the model.
-- Trained the model using the Adam optimizer and evaluated its performance using accuracy as the primary metric.
-- Achieved a final accuracy of 92% on the testing set.
+- Trained the model using the tensorflow and evaluated its performance using accuracy as the primary metric.
+- Achieved a final accuracy of 98% on the testing set.
 - Collaborated within a multidisciplinary team, sharing knowledge through talks and workshops on Flutter, a framework used in the project.
 
 ## Repository Structure
